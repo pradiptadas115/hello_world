@@ -1,0 +1,16 @@
+---
+ref: hello_world
+name: Hello World Stackstorm
+description: This is a simple pack to run a python code in stackstorm
+keyword:
+  - example
+  - test
+  - python
+version: 1.0.0
+python_versions:
+  - "3"
+author: Nihilent Analytics Ltd.
+email: info@nal.com
+contributors:
+  - "Pradipta <pradipta.das@gmail.com>"
+  - "Pradipta <pradipta.das@nihilentanalytics.com>"
