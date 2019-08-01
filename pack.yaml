@@ -9,6 +9,7 @@ keyword:
 version: 1.0.0
 python_versions:
   - "3"
+  - "2"
 author: Nihilent Analytics Ltd.
 email: info@nal.com
 contributors:
